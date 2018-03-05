@@ -1,0 +1,17 @@
+# Basic packages used for machine learning
+
+numpy
+# scipy
+# jupyter
+# matplotlib
+# Pillow
+# scikit-learn
+
+# TensorFlow can be installed either as CPU or GPU versions.
+
+tensorflow		# CPU Version of TensorFlow.
+# tensorflow-gpu	# GPU version of TensorFlow.
+
+# Builder API for TensorFlow used in many of the tutorials.
+# ToDo: Explore pretty tensor after first submission
+# prettytensor
